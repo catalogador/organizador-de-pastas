@@ -1,0 +1,1 @@
+Simples: Joga todos teus arquivos numa pasta, depois tu abre o executavel e seleciona está pasta, vai ficar tudo organizado por tipo de arquivo. :]
